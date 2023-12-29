@@ -5,7 +5,6 @@ import sys
 import os
 
 operators = ['+', '-', '*', '/']
-
 n = random.randint(120, 180)
 
 for _ in range(n):
